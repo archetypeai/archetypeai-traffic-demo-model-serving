@@ -1,5 +1,5 @@
 {
-	"name": "archetypeai-traffic-demo-model-serving",
+	"name": "archetypeai-traffic-demo-inference-api",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",

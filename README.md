@@ -41,8 +41,8 @@ This is the Inference API version of [archetypeai-traffic-demo](https://github.c
 Requires Node.js 20 or later and [ffmpeg](https://ffmpeg.org) on your `PATH` (`brew install ffmpeg` on macOS):
 
 ```bash
-git clone https://github.com/archetypeai/archetypeai-traffic-demo-model-serving.git
-cd archetypeai-traffic-demo-model-serving
+git clone https://github.com/archetypeai/archetypeai-traffic-demo-inference-api.git
+cd archetypeai-traffic-demo-inference-api
 npm install
 cp .env.example .env      # then add your API key
 ```
